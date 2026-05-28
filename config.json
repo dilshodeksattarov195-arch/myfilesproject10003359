@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionualculate",
+        "uuid": 33516102,
+        "checksum": "57lh4g"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
